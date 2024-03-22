@@ -1,0 +1,36 @@
+body {
+    background-image: url('img/fundo-QvhJ9ZA8B-transformed.jpeg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-origin: content-box;
+    margin: 0;
+    padding: 0;
+    }
+
+    main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+      }
+
+    h1,
+    h2,
+    p {
+      font-family: Arial, sans-serif;
+    }
+    .container {
+      text-align: center;
+    }
+    .center {
+      display: inline-block;
+      vertical-align: middle;
+      width: 100%;
+    }
+    .img-container {
+      display: block;
+      margin: 0 auto;
+    }
